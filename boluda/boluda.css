@@ -16,6 +16,7 @@
 body {
     background-color: #ffffff;
     font-family: Montserrat, sans-serif;
+    min-width: 480px;
 }
 
 /*  Layout. */
